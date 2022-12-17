@@ -8,8 +8,8 @@ import { useEffect, useState } from 'react';
 
 
 function App() {
-
   const [details, setDetails] = useState({})
+  
   const fetchDetails = async () => {
     const { data} = await axios.get("https://randomuser.me/api/")
     //console.log(data);
