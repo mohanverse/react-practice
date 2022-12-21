@@ -29,6 +29,7 @@ function App() {
 
       <Counter />
       <Cards detaials={details}/>
+      <Cards detaials={details}/>
 
       {/* <Cards Name="shubham" imageUrl="https://media.istockphoto.com/id/870923074/photo/a-woodpecker-is-sitting-on-a-branch.jpg?s=612x612&w=is&k=20&c=m4pVV_iPPFpfgkttm7WiVzLetk5AFdwy_DZJQCWyHLw=" birds="picoke" href=""/> */}
       {/* <Cards Name="mohan" imageUrl="https://media.istockphoto.com/id/1443082207/photo/middle-spotted-woodpecker-bird-on-the-tree.jpg?s=2048x2048&w=is&k=20&c=2f9UweyPmXXJ1sshIJmSGefG1n9iI_JmLFXxAHdg5nQ=" birds="owl" href=""/> */}
